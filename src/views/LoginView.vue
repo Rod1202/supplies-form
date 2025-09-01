@@ -161,9 +161,7 @@ function goToForm() {
 /**
  * Navigates to the admin view.
  */
-function goToAdminView() {
-  router.push({ name: 'AdminView' });
-}
+
 </script>
 
 <style scoped>
